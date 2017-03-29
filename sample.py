@@ -1,2 +1,1 @@
-print "sample python file"
-print "testing webhooks from commits"
+print "Testing webhooks from commits"
