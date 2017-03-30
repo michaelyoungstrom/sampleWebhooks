@@ -1,1 +1,1 @@
-print "Now using API Gateway""
+print "Now using API Gateway!"
