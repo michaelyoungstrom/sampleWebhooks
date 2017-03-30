@@ -1,1 +1,1 @@
-print "Testing webhooks from commits"
+print "Now using API Gateway""
