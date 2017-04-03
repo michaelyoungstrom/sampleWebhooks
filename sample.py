@@ -1,2 +1,2 @@
 # Comment
-print "now using API Gateway and trying to hit Splunk"
+print "Now using API Gateway and storing in S3"
