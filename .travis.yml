@@ -6,6 +6,7 @@ python:
 install:
   - pip install --upgrade pip
 script:
+  - make test
 branches:
   only:
     - master
