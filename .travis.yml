@@ -5,9 +5,11 @@ python:
   - "3.5"
 install:
   - pip install --upgrade pip
+  - pip install codecov
 script:
   - make test
 branches:
   only:
     - master
 after_success:
+  - codecov
