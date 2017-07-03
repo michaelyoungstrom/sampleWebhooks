@@ -1,4 +1,4 @@
-.. code:: bash
+.. code:: groovy
 
     import jenkins.*
     import jenkins.model.*
