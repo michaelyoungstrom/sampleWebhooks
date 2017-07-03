@@ -25,7 +25,7 @@ running within a Docker container), as well as various Groovy helper utilities.
 
 .. code:: bash
 
-make requirements
+    make requirements
 
 Configuring Jenkins
 -------------------
