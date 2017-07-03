@@ -1,4 +1,5 @@
 .. code::bash
+
     import jenkins.*
     import jenkins.model.*
     import hudson.*
