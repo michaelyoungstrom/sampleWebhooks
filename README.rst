@@ -58,6 +58,7 @@ the Groovy Grape_ system in subsequent scripts for importing external libraries.
 example, if you wanted to make use of the Snake Yaml library:
 
 .. code:: groovy
+
     @Grab(group='org.yaml', module='snakeyaml', version='1.17')
     import org.yaml.snakeyaml.Yaml
 
