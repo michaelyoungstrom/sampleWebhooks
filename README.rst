@@ -1,4 +1,4 @@
-.. code::bash
+.. code:: bash
 
     import jenkins.*
     import jenkins.model.*
