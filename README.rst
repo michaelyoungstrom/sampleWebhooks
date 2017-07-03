@@ -40,6 +40,7 @@ Unlike the Jenkins Script Console, Jenkins-related libraries are not auto-import
 so make sure you import the following into your scripts:
 
 .. code:: groovy
+
     import jenkins.*
     import jenkins.model.*
     import hudson.*
