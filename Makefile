@@ -1,4 +1,5 @@
 clean:
 	find . -name '*.pyc' -delete
 
-test: clean
+test:
+	@echo no testing yet
