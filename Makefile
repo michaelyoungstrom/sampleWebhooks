@@ -2,4 +2,4 @@ clean:
 	find . -name '*.pyc' -delete
 
 test:
-	@echo no testing yet
+	@echo no testing yet!
